@@ -1,0 +1,9 @@
+[submodule "zaledje"]
+	path = zaledje
+	url = https://github.com/delilnica/zaledje
+[submodule "ospredje"]
+	path = ospredje
+	url = https://github.com/delilnica/ospredje
+[submodule "idgen"]
+	path = idgen
+	url = https://github.com/delilnica/idgen
